@@ -14,4 +14,5 @@ Profesor. JAIME LEONARDO ENRIQUEZ ALVAREZ
 # :books: Actividades
 
 ## Unidad 1 :open_file_folder:
-### [C0.1 IntegrarEquiposdeTrabajo](https://github.com/SergioG93/Analisis-avanzado-de-sofware/blob/main/Blogs/C0.1_IntegrarEquiposdeTrabajo_Disae.pdf)
+* [C0.1 IntegrarEquiposdeTrabajo](https://github.com/SergioG93/Analisis-avanzado-de-sofware/blob/main/Blogs/C0.1_IntegrarEquiposdeTrabajo_Disae.pdf)
+* [C0.2 Tipo de sistema de información]()
