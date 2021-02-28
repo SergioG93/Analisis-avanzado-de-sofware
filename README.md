@@ -3,13 +3,13 @@
 ## Instituto Tecnológico de Tijuana
 
 # Analisis-avanzado-de-sofware
- 
+ ## :bust_in_silhouette: Datos del alumno
  Garza Aguilar Sergio Alberto
  No. Control: 1521700
  
  Equipo: Bisae
  
-Profesor. JAIME LEONARDO ENRIQUEZ ALVAREZ
+:mortar_board: Profesor. JAIME LEONARDO ENRIQUEZ ALVAREZ
 
 # :books: Actividades
 
