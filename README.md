@@ -5,9 +5,15 @@
 # Analisis-avanzado-de-sofware
  ## :bust_in_silhouette: Datos del alumno
  Garza Aguilar Sergio Alberto
+
  No. Control: 1521700
  
- Equipo: Bisae
+## Equipo: Bisae :low_brightness:
+### Integtrantes
+* Diana Hernandez 
+* Diana Zazueta
+* Saul Acosta 
+* Sergio Garza
  
 :mortar_board: Profesor. JAIME LEONARDO ENRIQUEZ ALVAREZ
 
