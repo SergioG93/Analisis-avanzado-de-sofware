@@ -8,6 +8,9 @@
 
  No. Control: 1521700
  
+Especialidad: Desarrollo de software
+
+Correo: sergio.garza@tectijuana.edu.mx
 ## Equipo: Bisae :low_brightness:
 ### Integtrantes
 * Diana Hernandez 
