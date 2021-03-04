@@ -11,7 +11,7 @@
 Especialidad: Desarrollo de software
 
 Correo: sergio.garza@tectijuana.edu.mx
-## Equipo: Bisae :low_brightness:
+## Equipo: Disae :low_brightness:
 ### Integtrantes
 * Diana Hernandez 
 * Diana Zazueta
