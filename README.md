@@ -25,3 +25,5 @@ Correo: sergio.garza@tectijuana.edu.mx
 ## Unidad 1 :open_file_folder:
 * :page_facing_up: [C0.1 IntegrarEquiposdeTrabajo](https://github.com/SergioG93/Analisis-avanzado-de-sofware/blob/main/Blogs/C0.1_IntegrarEquiposdeTrabajo_Disae.pdf) 
 * :page_facing_up: [C0.2 Tipo de sistema de información](https://github.com/SergioG93/Analisis-avanzado-de-sofware/blob/main/Blogs/C0.2%20Tipo%20de%20sistema%20de%20informaci%C3%B3n.md) 
+
+* :page_facing_up: [C0.2 Tipo de sistema de información](https://github.com/SergioG93/Analisis-avanzado-de-sofware/blob/main/Blogs/C0.3_DiagramadeFlujo_Proceso.md) 
