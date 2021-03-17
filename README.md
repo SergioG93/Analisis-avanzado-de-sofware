@@ -27,4 +27,4 @@ Correo: sergio.garza@tectijuana.edu.mx
 * :page_facing_up: [C0.2 Tipo de sistema de información](https://github.com/SergioG93/Analisis-avanzado-de-sofware/blob/main/Blogs/C0.2%20Tipo%20de%20sistema%20de%20informaci%C3%B3n.md) 
 
 * :page_facing_up: [C0.3 DiagramadeFlujo Proceso](https://github.com/SergioG93/Analisis-avanzado-de-sofware/blob/main/Blogs/C0.3_DiagramadeFlujo_Proceso.md) 
-* :page_facing_up: [A0.1_Recopilación de datos por medio de la entrevista_SergioGarza][https://github.com/SergioG93/Analisis-avanzado-de-sofware/blob/main/Blogs/A0.1_Recopilaci%C3%B3n%20de%20datos%20por%20medio%20de%20la%20entrevista_SergioGarza.md]
+* :page_facing_up: [A0.1_Recopilación de datos por medio de la entrevista][https://github.com/SergioG93/Analisis-avanzado-de-sofware/blob/main/Blogs/A0.1_Recopilaci%C3%B3n%20de%20datos%20por%20medio%20de%20la%20entrevista_SergioGarza.md]
