@@ -30,3 +30,4 @@ Correo: sergio.garza@tectijuana.edu.mx
 * :page_facing_up: [A0.1_Data collection interview](https://github.com/SergioG93/Analisis-avanzado-de-sofware/blob/main/Blogs/A0.1_Recopilaci%C3%B3n%20de%20datos%20por%20medio%20de%20la%20entrevista_SergioGarza.md)
 
 ## Unidad 2 :open_file_folder:
+* :page_facing_up: [C1.1 Definición de Objetivo general y los especificos, asi como el modelado del negocio](https://github.com/SergioG93/Analisis-avanzado-de-sofware/blob/main/Blogs/C1.1%20Definici%C3%B3n%20de%20Objetivo%20general%20y%20los%20especificos%2C%20asi%20como%20el%20modelado%20del%20negocio.md)
