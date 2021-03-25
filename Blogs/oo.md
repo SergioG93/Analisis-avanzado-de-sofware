@@ -52,4 +52,4 @@ ___
 ___
 
 # Objetivo General
-## Objetivos especificos
+## Objetivos específicos
