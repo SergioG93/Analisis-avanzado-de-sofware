@@ -47,3 +47,9 @@ ___
 | ------------- | -------------------------------------------------------------------------------------------- | ------- |
 | Instrucciones | Se cumple con cada uno de los puntos indicados dentro del apartado Instrucciones?            | 20 |
 | Desarrollo    | Se respondió a cada uno de los puntos solicitados dentro del desarrollo de la actividad?     | 80      |
+
+
+___
+
+# Objetivo General
+## Objetivos especificos
