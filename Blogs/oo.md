@@ -53,3 +53,9 @@ ___
 
 # Objetivo General
 ## Objetivos específicos
+
+___
+
+# Modelo de negocios
+
+![](imges/Modelo.png)
