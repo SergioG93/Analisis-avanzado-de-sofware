@@ -33,3 +33,5 @@ Correo: sergio.garza@tectijuana.edu.mx
 * :page_facing_up: [C1.1 Definición de Objetivo general y los especificos, asi como el modelado del negocio](https://github.com/SergioG93/Analisis-avanzado-de-sofware/blob/main/Blogs/C1.1%20Definici%C3%B3n%20de%20Objetivo%20general%20y%20los%20especificos%2C%20asi%20como%20el%20modelado%20del%20negocio.md)
 
 * :page_facing_up: [C1.2 Acta constitutiva del proyecto](https://github.com/SergioG93/Analisis-avanzado-de-sofware/blob/main/Blogs/C1.2%20Acta%20constitutiva%20del%20proyecto.md)
+
+* :page_facing_up: [C1.3 Requisitos del sistema](https://github.com/SergioG93/Analisis-avanzado-de-sofware/blob/main/Blogs/C1.3_Requisitos_del_sistema.md)
