@@ -35,3 +35,5 @@ Correo: sergio.garza@tectijuana.edu.mx
 * :page_facing_up: [C1.2 Acta constitutiva del proyecto](https://github.com/SergioG93/Analisis-avanzado-de-sofware/blob/main/Blogs/C1.2%20Acta%20constitutiva%20del%20proyecto.md)
 
 * :page_facing_up: [C1.3 Requisitos del sistema](https://github.com/SergioG93/Analisis-avanzado-de-sofware/blob/main/Blogs/C1.3_Requisitos_del_sistema.md)
+
+* :page_facing_up: [C1.3 A1.0 Constitutive Act of the Project](https://github.com/SergioG93/Analisis-avanzado-de-sofware/blob/main/Blogs/A1.0_ConstitutiveAct_oftheProject_SergioGarza.pdf)
