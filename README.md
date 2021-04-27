@@ -41,5 +41,5 @@ Correo: sergio.garza@tectijuana.edu.mx
 * :page_facing_up: [C1.4 Modelado de requisitos a través de diagramas de comportamiento](https://github.com/SergioG93/Analisis-avanzado-de-sofware/blob/main/Blogs/C1.4%20Modelado%20de%20requisitos%20a%20trav%C3%A9s%20de%20diagramas%20de%20comportamiento.md)
 
 
-* :page_facing_up: [C1.5_UML_Estado_componentes_distribucion.md](https://github.com/SergioG93/Analisis-avanzado-de-sofware/blob/main/Blogs/C1.5_UML_Estado_componentes_distribucion.md.md)
+* :page_facing_up: [C1.5 UML Estado componentes distribucion](https://github.com/SergioG93/Analisis-avanzado-de-sofware/blob/main/Blogs/C1.5_UML_Estado_componentes_distribucion.md.md)
 
