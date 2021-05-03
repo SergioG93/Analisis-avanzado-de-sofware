@@ -43,3 +43,5 @@ Correo: sergio.garza@tectijuana.edu.mx
 
 * :page_facing_up: [C1.5 UML Estado componentes distribucion](https://github.com/SergioG93/Analisis-avanzado-de-sofware/blob/main/Blogs/C1.5_UML_Estado_componentes_distribucion_SergioGarza.pdf)
 
+* :page_facing_up: [A1.1 Requirements modeling through UML diagrams](https://github.com/SergioG93/Analisis-avanzado-de-sofware/blob/main/Blogs/A1.1_Requirements_modeling_through_UML_diagrams.md)
+
