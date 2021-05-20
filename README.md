@@ -46,3 +46,7 @@ Correo: sergio.garza@tectijuana.edu.mx
 * :page_facing_up: [A1.1 Requirements modeling through UML diagrams](https://github.com/SergioG93/Analisis-avanzado-de-sofware/blob/main/Blogs/A1.1_Requirements_modeling_through_UML_diagrams.md)
 
 * :page_facing_up: [C2.1 Especificacion Requerimientos Funcionales](https://github.com/SergioG93/Analisis-avanzado-de-sofware/blob/main/Blogs/C2.1%20Especificacion%20Requerimientos%20Funcionales.md)
+
+* :page_facing_up: [A2.2 4 + 1 architecture design](https://github.com/SergioG93/Analisis-avanzado-de-sofware/blob/main/Blogs/A2.2%20Architecture%20design%204%2B1.md)
+
+
