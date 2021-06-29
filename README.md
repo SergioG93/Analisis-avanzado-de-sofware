@@ -50,3 +50,7 @@ Correo: sergio.garza@tectijuana.edu.mx
 * :page_facing_up: [A2.2 4 + 1 architecture design](https://github.com/SergioG93/Analisis-avanzado-de-sofware/blob/main/Blogs/A2.2%20Architecture%20design%204%2B1.md)
 
 * :page_facing_up: [A2.3 Software architecture patterns](https://github.com/SergioG93/Analisis-avanzado-de-sofware/blob/main/Blogs/A2.3%20Software%20architecture%20patterns_SergioGarza_15211700.pdf)
+
+## Unidad 3 :open_file_folder:
+
+* :page_facing_up: [A3.1_Documentation-_Scrum_StartPhase_SergioGarza](https://github.com/SergioG93/Analisis-avanzado-de-sofware/blob/main/Blogs/A3.1_Documentation-_Scrum_StartPhase_SergioGarza.pdf)
