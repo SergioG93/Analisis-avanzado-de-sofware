@@ -54,3 +54,5 @@ Correo: sergio.garza@tectijuana.edu.mx
 ## Unidad 3 :open_file_folder:
 
 * :page_facing_up: [A3.1 Documentation Scrum StartPhase](https://github.com/SergioG93/Analisis-avanzado-de-sofware/blob/main/Blogs/A3.1_Documentation-_Scrum_StartPhase_SergioGarza.pdf)
+
+* :page_facing_up: [A3.2 Start phase-Artifacts](https://github.com/SergioG93/Analisis-avanzado-de-sofware/blob/main/Blogs/A3.2-Start-phase-Artifacts_SergioGarza.pdf)
